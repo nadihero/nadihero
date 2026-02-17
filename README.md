@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Asdar Nugraha
+### Hi there 👋 I'm Asdar
 ---
 #### 📫 Kontak
 - [LinkedIn](https://linkedin.com/in/asdarium)
-- [Email](mailto:asdarhmd24@gmail.com)
+- [Email](mailto:nadihero8@gmail.com)
