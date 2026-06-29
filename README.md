@@ -1,7 +1,7 @@
 # Asdarium — nadihero
 
 <div align="center">
-  <img src="https://via.placeholder.com/1200x280/0a0a0a/00f5ff?text=✦+INTELLIGENCE+MEETS+CODE+✦" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/BVyB28B3/Chat-GPT-Image-Oct-8-2025-08-08-24-AM.png" alt="Chat-GPT-Image-Oct-8-2025-08-08-24-AM" border="0" alt="Asdar Banner" width="100%">
   
   <h2>Passionate Developer</h2>
   <p><strong>AI Enthusiast</strong> • <strong>RESTful API</strong> Architect</p>
